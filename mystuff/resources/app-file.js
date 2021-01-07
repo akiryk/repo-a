@@ -1,4 +1,4 @@
 function get32() {
-  // a comment!
+  // a comment
   return 32;
 }
