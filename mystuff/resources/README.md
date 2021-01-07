@@ -1,3 +1,3 @@
 # My APP Read Me
 
-stuff I want to keep goes here.
+Stuff I want to keep goes here.
