@@ -1,4 +1,5 @@
 function() {
   // a comment!
-  console.log("Hello!")
+  console.log("Hello!");
+  return 32;
 }
