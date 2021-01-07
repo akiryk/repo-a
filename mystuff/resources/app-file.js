@@ -1,5 +1,4 @@
-function() {
+function get32() {
   // a comment!
-  console.log("Hello!");
   return 32;
 }
